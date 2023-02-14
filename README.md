@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <body>
-    <p><img src="" align="center"></p>
+    <p><img src="https://user-images.githubusercontent.com/107291554/218666283-6fe6167a-90eb-4360-ab6f-f4be7be82113.gif)
+ " align="center"></p>
   <h2>Sosial Media</h2>
   
   <div align="center">
