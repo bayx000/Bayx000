@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-    <p><img src="https://user-images.githubusercontent.com/107291554/218657999-1d735675-a913-4074-a6bd-2df5d8a4655d.gif" align="center"></p>
+    <p><img src="" align="center"></p>
   <h2>Sosial Media</h2>
   
   <div align="center">
@@ -12,7 +12,7 @@
     <div>
         <h2 align="center">Thank You</h2>
         <div align="center">
-            <img src="NastyZealousAffenpinscher-mobile.gif">
+            <img src="https://user-images.githubusercontent.com/107291554/218657999-1d735675-a913-4074-a6bd-2df5d8a4655d.gif">
         </div>
         <hr>
     </div>
