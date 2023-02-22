@@ -2,7 +2,7 @@
 <body>
     <h2 align="center">Welcome</h2>
     <p align="center">
-        <img src="https://user-images.githubusercontent.com/107291554/220307318-13b7b3f6-5332-4b8f-83b9-c233b50590ae.gif" align="center" width="100px">
+        <img src="https://user-images.githubusercontent.com/107291554/220307318-13b7b3f6-5332-4b8f-83b9-c233b50590ae.gif" align="center" width="1000px">
     </p>
     <br>
   <h2 align="center">Social Media</h2>
