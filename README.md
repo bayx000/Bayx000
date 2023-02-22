@@ -8,7 +8,7 @@
   <h2 align="center">Social Media</h2>
 <div align="center">
   <a href="https://www.instagram.com/mbayupw_">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100px"/>
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 <br>
